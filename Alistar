@@ -1,0 +1,493 @@
+Alistar
+Level 16
+Background
+	That Weird Kid
+		Adept Occult Education
+		Novice Focus
+		Pathetic Intimidate
+		Pathetic Acrobatics
+		Pathetic Medicine Education
+
+Derived Stats
+	AP	7
+	HP		
+		Level x 2 + HP x 3 + 10
+			102 (31)
+	Evasion
+		Physical	1
+		Special		1
+		Speed		4
+	Power		4
+	High Jump	0
+	Long Jump	1
+	Overland	3
+	Swim		1
+	Levitate	4
+	Throwing	6
+	Size		Medium, 100lb (WC3)
+		
+Skills
+	Acrobatics		Pathetic
+	Athletics		Untrained
+	Combat			Untrained
+	Intimidate		Pathetic
+	Stealth			Untrained
+	Survival		Novice
+	General Education	Untrained
+	Medicine Education	Pathetic
+	Occult Education	Master
+	Pokemon Education	Untrained
+	Technology Education	Untrained
+	Guile			Untrained
+	Perception		Expert
+	Charm			Untrained
+	Command			Master
+	Focus			Expert
+	Intuition		Novice
+	
+Gear:
+	|---------------|-----------------------|---------------|---------------|
+	| Amount	| Name			| Cost		| Total		|
+	|---------------|-----------------------|---------------|---------------|
+	| 1		| Enhanced Sight	| 1000		| 1000		|
+	| 1		| Datajack (owed	|		|  400		|
+	| 1		| Tent			| 1000		| 1000		|
+	| 1		| Sleeping Bag		| 1000		| 1000		|
+	| 1		| 25ft Surdy Rope	|  400		|  400		|
+	| 1		| Water Filter		|  500		|  500		|
+	| 1		| Multitool		|  500		|  500		|
+	| 1		| Backpack		|    0		|    0		|
+	| 1		| Shank			|    0		|    0		|
+	|---------------|-----------------------|---------------|---------------|
+	|		|			| Subtotal	| 4400		|
+	|		| Owed by Cogs		|		| -500		|
+	| 		| 			| Cash		|  600		|
+	|---------------|-----------------------|---------------|---------------|
+	|		|			| Total		| 5900		|
+	|---------------|-----------------------|---------------|---------------|
+	
+Stats:
+	HP	20
+	Atk	5
+	Def	5
+	SpAtk	12
+	SpDef	6
+	Spd	20
+	
+Abilities:
+	Levitate
+	
+Capabilities:
+	Telekinetic
+	Gather Unown 1/week (1/7)
+	
+Moves:
+	Hidden Power
+		Ghost | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+
+Edges
+	1:	Elemental Connection (Psychic) (+2 on rolls to interact with Psychic pokemon)
+	1:	Iron Mind (Aware of all mindreading attempts)
+	1:	Novice Intuition
+	1:	Novice Perception
+	2:	Novice Command
+	2:	Adept Focus
+	4:	Adept Perception
+	6:	Expert Occult Education
+	6:	Adept Command
+	8:	Trainer of Champions (+5 Additional Experience on Experience Training)
+	10:	Train the Reserves (Can train twice Command Rank in Pokemon on each Experience)
+	10:	Expert Perception
+	10:	Expert Command
+	12:	Master Command
+	12:	Master Occult Education
+	14:	Novice Survival
+	16:	Expert Focus
+	
+Features
+	1:	Telekinetic [+SpAtk] (Gain Telekinetic capability)
+	1:	Telepath [+SpDef] (2AP Swift - Gain Telepathy capability for the rest of the scene)
+	1:	Power of the Mind [+SpAtk] (Gain Levitate ability)
+	1:	Rune Master [+SpAtk] (Gain Gather Unown capability. Unown gain Letter Press capability. Treated as a level 20 pokemon for Gather Unown)
+	1:	Agility Training
+	3:	Hidden Power [+SpAtk] (Learn Hidden Power move. Choose Physical or Special on use.)
+	5:	Rewrite [+SpAtk] (Reroll type of an instance of Hidden Power on self or pokemon. If Unown, can transform into another letter)
+	5:	Species Savant (Unown) (+1 Base Stats on Unown)
+	7:	Telekinetic Burst [+SpAtk] (1AP Swift - Disarm, Trip or Maneuver using Telekinetic Capability)
+	9:	Ace Trainer (Drain 1AP Extended - For each pokemon trained, choose a stat besides HP. Baseline +1 CS to that stat)
+	11:	Words of Power [+SpAtk] (Hidden Power on self or pkmn can be Burst, 1 Target Melee 1, 1 Target 6m or Cone 2. Self and pkmn always have STAB on Hidden Power)
+	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
+	15:	Perseverance (1AP Free - If a pokemon gains an injury, it doesn't. 1/scene/target)
+	
+Pokemon
+	Level 25 Cuddly Unown Prime - Dryad - 765/820
+		HP	19 + 10 = 29
+		Atk	 7 +  0 =  7
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 11 = 20
+		SpDef	 7 +  0 =  7
+		Spd	12 + 10 = 27
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	119 (30)
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	1+4 / 6+4 (Top Percentage)
+			
+			Edges/Features	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Grass, Fire, Dragon, Water for off picks)
+		
+	Level 25 Cuddly Unown Prime - Djinn - 765/820
+		HP	19 + 10 = 29
+		Atk	 7 +  0 =  7
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 11 = 20
+		SpDef	 7 +  0 =  7
+		Spd	12 + 10 = 27
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	119 (30)
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	1+4 / 6+4 (Top Percentage)
+			
+			Edges/Features	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Grass, Fire, Dragon, Water for off picks)
+			
+	Level 25 Cuddly Unown Prime - Dwarf - 765/820
+		HP	19 + 10 = 29
+		Atk	 7 +  0 =  7
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 11 = 20
+		SpDef	 7 +  0 =  7
+		Spd	12 + 10 = 27
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	119
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	1+4 / 6+4 (Top Percentage)
+			
+			Edges/Features	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Grass, Fire, Dragon, Water for off picks)
+			
+	Level 25 Cuddly Unown Prime - Demon - 765/820
+		HP	19 + 10 = 29
+		Atk	 7 +  0 =  7
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 11 = 20
+		SpDef	 7 +  0 =  7
+		Spd	12 + 10 = 27
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	119
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	1+4 / 6+4 (Top Percentage)
+			
+			Edges/Features	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Grass, Fire, Dragon, Water for off picks)
+			
+	Level 25 Cuddly Unown Prime - Devil - 765/820
+		HP	19 + 10 = 29
+		Atk	 7 +  0 =  7
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 11 = 20
+		SpDef	 7 +  0 =  7
+		Spd	12 + 10 = 27
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	119
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	1+4 / 6+4 (Top Percentage)
+			
+			Edges/Features	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Grass, Fire, Dragon, Water for off picks)
+			
+	Level 19 Decisive Unown Prime - Drake - 336/250
+		HP	12 + 19 = 31
+		Atk	 7 +  0 =  7
+		Def	 9 +  0 =  9
+		SpAtk	 7 +  0 =  7
+		SpDef	 7 +  0 =  7
+		Spd	 7 +  0 =  7
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	122
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 6
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	0+0 / 4+1 (Top Percentage)
+			
+			Edges/Features
+				Improved Mobility (Levitate)	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Normal | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Grass, Fire, Dragon, Water for off picks)
+ 
