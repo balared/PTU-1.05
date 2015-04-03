@@ -1,5 +1,5 @@
 Alistar
-Level 16
+Level 17
 Background
 	That Weird Kid
 		Adept Occult Education
@@ -194,13 +194,15 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 		
-	Level 25 Cuddly Unown Prime - Djinn - 765/820
+	Level 25 Cuddly Unown Prime - Djinn - 792/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
 		SpDef	 7 +  0 =  7
-		Spd	12 + 10 = 27
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -215,11 +217,11 @@ Pokemon
 		Capabilities
 			HP	119
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	3
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
@@ -257,13 +259,15 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Dwarf - 765/820
+	Level 25 Cuddly Unown Prime - Dwarf - 792/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
 		SpDef	 7 +  0 =  7
-		Spd	12 + 10 = 27
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -278,11 +282,11 @@ Pokemon
 		Capabilities
 			HP	119
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	5
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
@@ -320,13 +324,15 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Demon - 765/820
+	Level 25 Cuddly Unown Prime - Demon - 792/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
 		SpDef	 7 +  0 =  7
-		Spd	12 + 10 = 27
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -341,11 +347,11 @@ Pokemon
 		Capabilities
 			HP	119
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	3
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
@@ -383,13 +389,15 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Devil - 765/820
+	Level 25 Cuddly Unown Prime - Devil - 792/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
 		SpDef	 7 +  0 =  7
-		Spd	12 + 10 = 27
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -404,11 +412,11 @@ Pokemon
 		Capabilities
 			HP	119
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	3
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
@@ -446,13 +454,15 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Decisive Unown Prime - Drake - 786/820 -
+	Level 25 Decisive Unown Prime - Drake - 813/820 -
 		HP	12 + 26 = 38
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
 		SpAtk	 7 +  0 =  7
 		SpDef	 7 +  0 =  7
-		Spd	12 +  0 = 12
+		Spd	12 +  0 = 12 * 1.2 = 14 (trained)
+		(INIT 18 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -467,11 +477,11 @@ Pokemon
 		Capabilities
 			HP	150
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	2
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	3 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
