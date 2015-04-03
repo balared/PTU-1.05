@@ -105,20 +105,21 @@ Edges
 	16:	Expert Focus
 	
 Features
-	1:	Telekinetic [+SpAtk] (Gain Telekinetic capability)
-	1:	Telepath [+SpDef] (2AP Swift - Gain Telepathy capability for the rest of the scene)
-	1:	Power of the Mind [+SpAtk] (Gain Levitate ability)
-	1:	Rune Master [+SpAtk] (Gain Gather Unown capability. Unown gain Letter Press capability. Treated as a level 20 pokemon for Gather Unown)
-	1:	Agility Training
-	3:	Hidden Power [+SpAtk] (Learn Hidden Power move. Choose Physical or Special on use.)
-	5:	Rewrite [+SpAtk] (Reroll type of an instance of Hidden Power on self or pokemon. If Unown, can transform into another letter)
-	5:	Species Savant (Unown) (+1 Base Stats on Unown)
-	7:	Telekinetic Burst [+SpAtk] (1AP Swift - Disarm, Trip or Maneuver using Telekinetic Capability)
-	9:	Ace Trainer (Drain 1AP Extended - For each pokemon trained, choose a stat besides HP. Baseline +1 CS to that stat)
+	 1:	Telekinetic [+SpAtk] (Gain Telekinetic capability)
+	 1:	Telepath [+SpDef] (2AP Swift - Gain Telepathy capability for the rest of the scene)
+	 1:	Power of the Mind [+SpAtk] (Gain Levitate ability)
+	 1:	Rune Master [+SpAtk] (Gain Gather Unown capability. Unown gain Letter Press capability. Treated as a level 20 pokemon for Gather Unown)
+	 1:	Agility Training (+1 Movement, +4 Init)
+	 3:	Hidden Power [+SpAtk] (Learn Hidden Power move. Choose Physical or Special on use.)
+	 5:	Rewrite [+SpAtk] (Reroll type of an instance of Hidden Power on self or pokemon. If Unown, can transform into another letter)
+	 5:	Species Savant (Unown) (+1 Base Stats on Unown)
+	 7:	Telekinetic Burst [+SpAtk] (1AP Swift - Disarm, Trip or Maneuver using Telekinetic Capability)
+	 9:	Ace Trainer (Drain 1AP Extended - For each pokemon trained, choose a stat besides HP. Baseline +1 CS to that stat)
 	11:	Words of Power [+SpAtk] (Hidden Power on self or pkmn can be Burst, 1 Target Melee 1, 1 Target 6m or Cone 2. Self and pkmn always have STAB on Hidden Power)
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
 	15:	Perseverance (1AP Free - If a pokemon gains an injury, it doesn't. 1/scene/target)
-	17:	
+	17:	Elite Trainer (Inspired Training)
+	17:	Inspired Training (+1 Evasion, +2 Saves)
 	
 Pokemon
 	Level 25 Cuddly Unown Prime - Dryad - 765/820
@@ -140,7 +141,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119 (30)
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -203,7 +204,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119 (30)
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -266,7 +267,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119 / 100 (2)
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -329,7 +330,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119 (44)
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -442,23 +443,24 @@ Pokemon
 		Def	 9 +  0 =  9
 		SpAtk	 7 +  0 =  7
 		SpDef	 7 +  0 =  7
-		Spd	 7 +  0 =  7
+		Spd	12 +  0 = 12
 		
 		Type	Psychic
 		
 		Abilities
 			Levitate
+			Telepathy
 			
 		Size
 			Height	1'8 / 0.5m (Small)
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	150 (44)
+			HP	150
 			Evasion
 				Def	1
 				SpDef	1
-				Spd	3
+				Spd	2
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -468,14 +470,14 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	2+0 / 6+1 (Top Percentage)
+			Points	0+2 / 6+3 (Top Percentage)
 			
 			Edges/Features
-				Improved Mobility (Levitate)	
+				Advanced Mobility (Levitate)	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
 				Skill Improvement (Stealth)
-				Advanced Mobility (Levitate)
+				Extended Invisibility
 				TK Mastery
 		
 		Skills
