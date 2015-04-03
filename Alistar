@@ -118,6 +118,7 @@ Features
 	11:	Words of Power [+SpAtk] (Hidden Power on self or pkmn can be Burst, 1 Target Melee 1, 1 Target 6m or Cone 2. Self and pkmn always have STAB on Hidden Power)
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
 	15:	Perseverance (1AP Free - If a pokemon gains an injury, it doesn't. 1/scene/target)
+	17:	
 	
 Pokemon
 	Level 25 Cuddly Unown Prime - Dryad - 765/820
@@ -265,11 +266,11 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	119 / 100 (2)
 			Evasion
 				Def	1
 				SpDef	1
-				Spd	3
+				Spd	5
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -328,7 +329,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	119 (44)
 			Evasion
 				Def	1
 				SpDef	1
@@ -435,8 +436,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 19 Decisive Unown Prime - Drake - 336/250
-		HP	12 + 19 = 31
+	Level 25 Decisive Unown Prime - Drake - 786/820 -
+		HP	12 + 26 = 38
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
 		SpAtk	 7 +  0 =  7
@@ -447,14 +448,13 @@ Pokemon
 		
 		Abilities
 			Levitate
-			Telepathy
 			
 		Size
 			Height	1'8 / 0.5m (Small)
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	122
+			HP	150 (44)
 			Evasion
 				Def	1
 				SpDef	1
@@ -468,13 +468,15 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+0 / 4+1 (Top Percentage)
+			Points	2+0 / 6+1 (Top Percentage)
 			
 			Edges/Features
 				Improved Mobility (Levitate)	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
 				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
+				TK Mastery
 		
 		Skills
 			Athletics	1d6+2
