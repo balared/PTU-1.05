@@ -9,7 +9,7 @@ Background
 		Pathetic Medicine Education
 
 Derived Stats
-	AP	7
+	AP	7 (1 Drained)
 	HP		
 		Level x 2 + HP x 3 + 10
 			102 (1)
@@ -58,18 +58,20 @@ Gear:
 	| 1		| Multitool		|  500		|  500		|
 	| 1		| Backpack		|    0		|    0		|
 	| 1		| Shank			|    0		|    0		|
-	| 2		| Red			|		|		|
-	| 2		| Orange		|		|		|
+	| 5		| Red			|		|		|
+	| 5		| Orange		|		|		|
 	| 0		| Yellow		|		|		|
-	| 0		| Green			|		|		|
-	| 0		| Blue			|		|		|
+	| 4		| Green			|		|		|
+	| 3		| Blue			|		|		|
 	| 0		| Violet		|		|		|
 	|---------------|-----------------------|---------------|---------------|
 	|		|			| Subtotal	| 4400		|
-	| 		| 			| Cash		|  700		|
+	| 		| 			| Cash		| 2700		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Total		| 6000		|
+	|		|			| Total		| 8000		|
 	|---------------|-----------------------|---------------|---------------|
+	
+	14
 	
 Stats:
 	HP	20
@@ -127,13 +129,15 @@ Features
 	17:	Inspired Training (+1 Evasion, +2 Saves)
 	
 Pokemon
-	Level 25 Cuddly Unown Prime - Dryad - 765/820
+	Level 25 Cuddly Unown Prime - Dryad - 792/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
 		SpDef	 7 +  0 =  7
-		Spd	12 + 10 = 27
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
+		(+2 to saves)
 		
 		Type	Psychic
 		
@@ -148,11 +152,11 @@ Pokemon
 		Capabilities
 			HP	119
 			Evasion
-				Def	1
-				SpDef	1
-				Spd	3
-			Levitate 6
-			Swim 2
+				Def	2
+				SpDef	2
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
 			Jump 1/1
 			Power 1
 			Invisibility
