@@ -12,7 +12,7 @@ Derived Stats
 	AP	7 (1 Drained)
 	HP		
 		Level x 2 + HP x 3 + 10
-			102 (1)
+			106 (1)
 	Evasion
 		Physical	1
 		Special		1
@@ -74,7 +74,7 @@ Gear:
 	14
 	
 Stats:
-	HP	20
+	HP	21
 	Atk	5
 	Def	5
 	SpAtk	12
