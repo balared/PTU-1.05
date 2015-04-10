@@ -42,7 +42,7 @@ Skills
 	Perception		Expert
 	Charm			Untrained
 	Command			Master
-	Focus			Expert
+	Focus			Adept
 	Intuition		Novice
 	
 Gear:
@@ -64,11 +64,12 @@ Gear:
 	| 4		| Green			|		|		|
 	| 3		| Blue			|		|		|
 	| 0		| Violet		|		|		|
+	| 1		| Crystalis Badge	|		|		|
 	|---------------|-----------------------|---------------|---------------|
 	|		|			| Subtotal	| 4400		|
-	| 		| 			| Cash		| 3700		|
+	| 		| 			| Cash		| 6100		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Total		| 9000		|
+	|		|			| Total		| 15000		|
 	|---------------|-----------------------|---------------|---------------|
 	
 	14
@@ -77,7 +78,7 @@ Stats:
 	HP	21
 	Atk	5
 	Def	5
-	SpAtk	12
+	SpAtk	 9
 	SpDef	6
 	Spd	20
 	
@@ -96,31 +97,32 @@ Edges
 	1:	Elemental Connection (Psychic) (+2 on rolls to interact with Psychic pokemon)
 	1:	Iron Mind (Aware of all mindreading attempts)
 	1:	Novice Intuition
-	1:	Novice Perception
+	1:	Novice Pokemon Education
 	2:	Novice Command
 	2:	Adept Focus
-	4:	Adept Perception
+	4:	Novice Perception
 	6:	Expert Occult Education
 	6:	Adept Command
 	8:	Trainer of Champions (+5 Additional Experience on Experience Training)
 	10:	Train the Reserves (Can train twice Command Rank in Pokemon on each Experience)
-	10:	Expert Perception
+	10:	Adept Perception
 	10:	Expert Command
 	12:	Master Command
 	12:	Master Occult Education
 	14:	Novice Survival
-	16:	Expert Focus
+	16:	Expert Perception
 	
 Features
-	 1:	Telekinetic [+SpAtk] (Gain Telekinetic capability)
+	 1:	Researcher (Pokemon Caretaking, Occult)
+	 1: Pusher (Pokemon gain a bunch of stuff without spending Tutor)
 	 1:	Telepath [+SpDef] (2AP Swift - Gain Telepathy capability for the rest of the scene)
-	 1:	Power of the Mind [+SpAtk] (Gain Levitate ability)
+	 1:	This One's Special, I Know It
 	 1:	Rune Master [+SpAtk] (Gain Gather Unown capability. Unown gain Letter Press capability. Treated as a level 20 pokemon for Gather Unown)
 	 1:	Agility Training (+1 Movement, +4 Init)
 	 3:	Hidden Power [+SpAtk] (Learn Hidden Power move. Choose Physical or Special on use.)
 	 5:	Rewrite [+SpAtk] (Reroll type of an instance of Hidden Power on self or pokemon. If Unown, can transform into another letter)
 	 5:	Species Savant (Unown) (+1 Base Stats on Unown)
-	 7:	Telekinetic Burst [+SpAtk] (1AP Swift - Disarm, Trip or Maneuver using Telekinetic Capability)
+	 7:	Skill Trainer (For each pokemon trained, +1d6 on a single skill)
 	 9:	Ace Trainer (Drain 1AP Extended - For each pokemon trained, choose a stat besides HP. Baseline +1 CS to that stat)
 	11:	Words of Power [+SpAtk] (Hidden Power on self or pkmn can be Burst, 1 Target Melee 1, 1 Target 6m or Cone 2. Self and pkmn always have STAB on Hidden Power)
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
@@ -164,7 +166,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	1+4 / 6+4 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
@@ -180,7 +182,7 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
