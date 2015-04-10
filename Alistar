@@ -58,11 +58,11 @@ Gear:
 	| 1		| Backpack		|    0		|    0		|
 	| 1		| Shank			|    0		|    0		|
 	| 1		| Cold Weather Outfit	|  500		|  500		|
-	| 5		| Red			|		|		|
+	| 6		| Red			|		|		|
 	| 5		| Orange		|		|		|
 	| 0		| Yellow		|		|		|
-	| 4		| Green			|		|		|
-	| 3		| Blue			|		|		|
+	| 7		| Green			|		|		|
+	| 4		| Blue			|		|		|
 	| 0		| Violet		|		|		|
 	| 1		| Crystalis Badge	|		|		|
 	|---------------|-----------------------|---------------|---------------|
