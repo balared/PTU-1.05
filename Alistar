@@ -114,7 +114,7 @@ Edges
 	
 Features
 	 1:	Researcher (Pokemon Caretaking, Occult)
-	 1: Pusher (Pokemon gain a bunch of stuff without spending Tutor)
+	 1: 	Pusher (Pokemon gain a bunch of stuff without spending Tutor)
 	 1:	Telepath [+SpDef] (2AP Swift - Gain Telepathy capability for the rest of the scene)
 	 1:	This One's Special, I Know It
 	 1:	Rune Master [+SpAtk] (Gain Gather Unown capability. Unown gain Letter Press capability. Treated as a level 20 pokemon for Gather Unown)
@@ -216,7 +216,7 @@ Pokemon
 			Height	1'8 / 0.5m (Small)
 			Weight	11lb / 5kg (1)
 			
-		Capabilities 
+		Capabilities
 			HP	119
 			Evasion
 				Def	2
@@ -231,7 +231,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	1+4 / 6+4 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
@@ -247,7 +247,7 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
@@ -296,7 +296,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	1+4 / 6+4 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
@@ -312,7 +312,7 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
@@ -361,7 +361,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	1+4 / 6+4 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
@@ -377,7 +377,7 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
@@ -426,7 +426,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	1+4 / 6+4 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
@@ -442,7 +442,7 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
@@ -456,7 +456,7 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Decisive Unown Prime - Drake - 813/820 -
+	Level 25 Decisive Unown Prime - Drake - 813/820
 		HP	12 + 26 = 38
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
