@@ -22,7 +22,6 @@ Derived Stats
 	Long Jump	1
 	Overland	3
 	Swim		1
-	Levitate	4
 	Throwing	6
 	Size		Medium, 100lb (WC3)
 		
@@ -58,6 +57,7 @@ Gear:
 	| 1		| Multitool		|  500		|  500		|
 	| 1		| Backpack		|    0		|    0		|
 	| 1		| Shank			|    0		|    0		|
+	| 1		| Cold Weather Outfit	|  500		|  500		|
 	| 5		| Red			|		|		|
 	| 5		| Orange		|		|		|
 	| 0		| Yellow		|		|		|
@@ -66,10 +66,10 @@ Gear:
 	| 0		| Violet		|		|		|
 	| 1		| Crystalis Badge	|		|		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Subtotal	| 4400		|
-	| 		| 			| Cash		| 6100		|
+	|		|			| Subtotal	| 5300		|
+	| 		| 			| Cash		| 5600		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Total		| 15000		|
+	|		|			| Total		| 10900		|
 	|---------------|-----------------------|---------------|---------------|
 	
 	14
