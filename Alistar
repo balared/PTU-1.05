@@ -1,5 +1,5 @@
 Alistar
-Level 17
+Level 18
 Background
 	That Weird Kid
 		Adept Occult Education
@@ -12,7 +12,7 @@ Derived Stats
 	AP	7 (1 Drained)
 	HP		
 		Level x 2 + HP x 3 + 10
-			106 (1)
+			110 (1)
 	Evasion
 		Physical	1
 		Special		1
@@ -32,7 +32,7 @@ Skills
 	Intimidate		Pathetic
 	Stealth			Untrained
 	Survival		Novice
-	General Education	Untrained
+	General Education	Adept
 	Medicine Education	Pathetic
 	Occult Education	Master
 	Pokemon Education	Untrained
@@ -75,7 +75,7 @@ Gear:
 	14
 	
 Stats:
-	HP	21
+	HP	22
 	Atk	5
 	Def	5
 	SpAtk	 9
@@ -111,6 +111,7 @@ Edges
 	12:	Master Occult Education
 	14:	Novice Survival
 	16:	Expert Perception
+	18:	Adept Pokemon Education
 	
 Features
 	 1:	Researcher (Pokemon Caretaking, Occult)
