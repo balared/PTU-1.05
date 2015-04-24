@@ -3,7 +3,7 @@ Level 18
 Background
 	That Weird Kid
 		Adept Occult Education
-		Novice Focus
+		Novice Focusdwa
 		Pathetic Intimidate
 		Pathetic Acrobatics
 		Pathetic Medicine Education
@@ -290,7 +290,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	122 (28)
 			Evasion
 				Def	2
 				SpDef	2
@@ -355,7 +355,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	119 (28)
 			Evasion
 				Def	2
 				SpDef	2
@@ -485,7 +485,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	150
+			HP	150 (33)
 			Evasion
 				Def	2
 				SpDef	2
