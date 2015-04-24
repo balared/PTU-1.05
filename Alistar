@@ -578,4 +578,7 @@ Pokemon
 				Dragon | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Flame Burst
+				Fire | At-Will | AC2 | DB7+2 STAB | Special | 6m Ranged 1
+					Trainers/Pokemon adjacent to target lose 5HP
  
