@@ -516,3 +516,66 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			(Grass, Fire, Dragon, Water for off picks)
  
+
+			
+	Level 20 Mild Unown Prime - Drake - 839/820
+		HP	11 + 19 = 30
+		Atk	 8 +  0 =  8
+		Def	 4 +  0 =  4
+		SpAtk	10 +  2 = 12
+		SpDef	 6 +  0 =  6
+		Spd	16 +  9 = 25 * 1.2 = 30 (trained)
+		(INIT 34 trained)
+		(+2 to saves)
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	110
+			Evasion
+				Def	0
+				SpDef	1
+				Spd	7 (trained)
+			Levitate 7 (trained)
+			Swim 3 (trained)
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	5+0 / 5+0 (Top Percentage)
+			
+			Edges/Features
+				//Advanced Mobility (Levitate)	
+				//Skill Improvement (Perception)
+				//Skill Improvement (Focus)
+				//Skill Improvement (Stealth)
+				Extended Invisibility
+				TK Mastery
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Fire | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Dragon | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+ 
