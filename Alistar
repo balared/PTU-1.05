@@ -1,9 +1,9 @@
 Alistar
-Level 18
+Level 19
 Background
 	That Weird Kid
 		Adept Occult Education
-		Novice Focusdwa
+		Novice Focus
 		Pathetic Intimidate
 		Pathetic Acrobatics
 		Pathetic Medicine Education
@@ -137,10 +137,11 @@ Features
 	15:	Perseverance (1AP Free - If a pokemon gains an injury, it doesn't. 1/scene/target)
 	17:	Elite Trainer (Inspired Training)
 	17:	Inspired Training (+1 Evasion, +2 Saves)
+	19:	Champ in the Making (Two trained stats per pokemon)
 	
 Pokemon
-	Level 26 Cuddly Unown Prime - Dryad - 839/900
-		HP	19 + 10 = 29
+	Level 27 Cuddly Unown Prime - Dryad - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 12 = 21
@@ -160,7 +161,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
@@ -204,8 +205,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 		
-	Level 25 Cuddly Unown Prime - Djinn - 839/900
-		HP	19 + 10 = 29
+	Level 25 Cuddly Unown Prime - Djinn - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 12 = 21
@@ -225,7 +226,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
@@ -269,8 +270,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Dwarf - 839/900
-		HP	19 + 10 = 29
+	Level 25 Cuddly Unown Prime - Dwarf - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 12 = 21
@@ -290,7 +291,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	122 (28)
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
@@ -334,8 +335,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Demon - 839/900
-		HP	19 + 10 = 29
+	Level 25 Cuddly Unown Prime - Demon - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 12 = 21
@@ -355,7 +356,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119 (28)
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
@@ -399,8 +400,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 25 Cuddly Unown Prime - Devil - 839/900
-		HP	19 + 10 = 29
+	Level 25 Cuddly Unown Prime - Devil - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 12 = 21
@@ -420,7 +421,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
@@ -464,14 +465,14 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 26 Decisive Unown Prime - Drake - 839/820
-		HP	12 + 25 = 38
+	Level 26 Decisive Unown Prime - Drake - 931/990
+		HP	19 + 11 = 29
 		Atk	 7 +  0 =  7
-		Def	 9 +  0 =  9
-		SpAtk	 7 +  8 =  5
+		Def	 7 +  0 =  7
+		SpAtk	 9 + 12 = 21
 		SpDef	 7 +  0 =  7
-		Spd	12 +  0 = 12 * 1.2 = 14 (trained)
-		(INIT 18 trained)
+		Spd	12 + 10 = 27 * 1.2 = 32 (trained)
+		(INIT 36 trained)
 		(+2 to saves)
 		
 		Type	Psychic
@@ -485,11 +486,11 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	150 (33)
+			HP	123
 			Evasion
 				Def	2
 				SpDef	2
-				Spd	3 (trained)
+				Spd	7 (trained)
 			Levitate 7 (trained)
 			Swim 3 (trained)
 			Jump 1/1
@@ -499,13 +500,13 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+2 / 6+3 (Top Percentage)
+			Points	2+4 / 6+4 (Top Percentage)
 			
-			Edges/Features
-				Advanced Mobility (Levitate)	
+			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
 				Skill Improvement (Stealth)
+				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
 		
@@ -515,18 +516,17 @@ Pokemon
 			Combat		2d6+0
 			Stealth		4d6+1
 			Perception	6d6+0
-			Focus		4d6+0
+			Focus		5d6+0
 		
 		Moves
 			Hidden Power
-				Normal | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+				Dragon | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
-				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Grass, Fire, Dragon, Water for off picks)
- 
-
+				Grass | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark, Ice)
+			(Dragon, Water for off picks)
 			
-	Level 20 Mild Unown Prime - Drake - 839/820
+	Level 20 Mild Unown Prime - Drake - 400/400
 		HP	11 + 19 = 30
 		Atk	 8 +  0 =  8
 		Def	 4 +  0 =  4
