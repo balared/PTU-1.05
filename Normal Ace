@@ -1,0 +1,146 @@
+Alistar
+Level 13
+Background
+	That Weird Kid
+		Adept Intimidate
+		Novice Intuition
+		Pathetic Occult Education
+		Pathetic Guile
+		Pathetic Survival
+
+Derived Stats
+	AP	
+	HP		
+		Level x 2 + HP x 3 + 10
+			X
+	Evasion
+		Physical	1
+		Special		1
+		Speed		1
+	Power		3
+	High Jump	0
+	Long Jump	1
+	Overland	3
+	Swim		1
+	Throwing	6
+	Size		Medium, 100lb (WC3)
+		
+Skills
+	Acrobatics				Untrained
+	Athletics				Untrained
+	Combat					Untrained
+	Intimidate				Adept
+	Stealth					Untrained
+	Survival				Pathetic
+	General Education		Untrained
+	Medicine Education		Untrained
+	Occult Education		Pathetic
+	Pokemon Education		Untrained
+	Technology Education	Untrained
+	Guile					Pathetic
+	Perception				Untrained
+	Charm					Untrained
+	Command					Untrained
+	Focus					Untrained
+	Intuition				Novice
+	
+Stats:
+	HP		10
+	Atk		 5
+	Def		 5
+	SpAtk	 5
+	SpDef	 5
+	Spd		 5
+
+Edges
+	1:	Novice Athletics
+	1:	Novice Focus
+	1:	
+	1:	Brutal Training
+	2:	Adept Intuition
+	2:	Adept Athletics
+	4:	
+	6:	Expert Athletics
+	6:	Expert Intimidate
+	8:	Expert Intuition
+	10:	
+	10:	
+	10:	
+	12:	Master Intimidate
+	12:	
+	
+Features
+	 1:	Type Ace (Normal)
+	 1: Extra Ordinary
+	 1:	Enduring Soul
+	 1:	Awareness
+	 1:	Taskmaster
+	 1:	Quick Healing
+	 3:	Plainly Perfect
+	 5:	Savage Strike
+	 5:	Pain Resistance
+	 7:	Resilience
+	 9:	Desperate Strike
+	11:	New Normal
+	13:	Deadly Gambit
+	
+	Tauros is attacked
+		Activate Deadly Gambit
+			Tauros takes an automatic critical hit
+				Activate Anger Point
+					Tauros gains 6 Attack CS (2.2x damage)
+				Activate Pain Resiliance
+					Tauros gains DR equal to Tick Value x Num Injuries
+				Tauros automatically critically hits opponent with a New Normal Plainly Perfect Move Sync'd Payback 
+					Tauros gives 3d8 + 186 + 1 Injury
+					Activate Desperate Strike
+						Tauros's Cruelty then causes the target to take 10-26 additional damage (3 from Taskmaster, 1 from Cruelty, 1 from Massive Damage)
+				Tauros is damaged by an Automatic Critical Hit
+					Pain Resistance + Extra Ordinary
+						Tauros gains DR equal to 3/10 HP + Def/SpDef + 5 + 5
+							~55 DR, including Def
+					Resilience
+						Tauros takes the hit as if it were not critical,
+	
+Pokemon
+	Level 30 Tauros - Thumper
+		HP	 	 9 + 20 = 29
+		Atk	 	10 + 20 = 30
+		Def	 	10 +  0 = 10
+		SpAtk	 4 +  0 =  4
+		SpDef	 7 +  0 =  7
+		Spd		 9 +  0 =  9
+		
+		Type	Normal
+		
+		Abilities
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	117
+			Evasion
+				Def		XXXX
+				SpDef	XXXX
+				Spd		XXXX
+			Swim XXXXX
+			Jump XXXX
+			Power XXXX
+			
+		Tutor
+			Points	XXX
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		4d6+1
+			Perception	6d6+0
+			Focus		5d6+0
+		
+		Moves
+			Hidden Power
+				Payback
+					Normal | DB12
